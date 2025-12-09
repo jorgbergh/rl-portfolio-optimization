@@ -1,0 +1,13 @@
+numpy>=1.24
+pandas>=2.0
+yfinance>=0.2
+matplotlib>=3.7
+
+gymnasium>=0.29
+stable-baselines3>=2.3
+
+torch>=2.2
+tensorboard>=2.16
+
+# Optional but often useful
+shimmy>=1.3
